@@ -55,7 +55,3 @@ Cada LED (vermelho, amarelo e verde) é controlado por uma *task* com prioridade
 * IDE com suporte a FreeRTOS (Arduino, ESP-IDF ou PlatformIO)
 * Biblioteca FreeRTOS configurada
 
-
-
-Se desejar, posso também gerar o GIF ou imagem de demonstração futuramente. Quer que eu adicione um `LICENSE` padrão MIT ao projeto também?
-```
